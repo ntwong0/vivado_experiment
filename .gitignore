@@ -1,0 +1,17 @@
+CMPE127-Toolkit.cache/
+CMPE127-Toolkit.hw/
+CMPE127-Toolkit.ip_user_files/
+CMPE127-Toolkit.runs/
+CMPE127-Toolkit.sim/
+CMPE127-Toolkit.srcs/Motherboard/new/
+CMPE127-Toolkit.srcs/MotherboardBasys3/new/
+CMPE127-Toolkit.srcs/constrs_Keyboard_VGA_Demo/new/
+CMPE127-Toolkit.srcs/constrs_VGA_DEMO/new/
+CMPE127-Toolkit.xpr
+CMPE127-Toolkit_def_val.txt
+CMPE127-Toolkit_dump.txt
+Firmware/
+Nexys4.pdf
+vivado.jou
+vivado.log
+vivado_pid6048.str
